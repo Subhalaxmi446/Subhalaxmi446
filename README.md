@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhalaxmi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" scr="[https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif0](https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif)">
+<img align="right" alt="coding" width="400" scr="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 - 🌱 I’m currently learning **React, JavaScript**
 
 - 📫 How to reach me **subhalaxmi446@gmail.com**
